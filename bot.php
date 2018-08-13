@@ -27,7 +27,7 @@ if (!is_null($events['events'])) {
 
 			// Build message to reply back
 
-			$Topic = "Room18_html5" ;
+			$Topic = "bedroom" ;
 			getMqttfromlineMsg($Topic,$text);
 			   
 			
